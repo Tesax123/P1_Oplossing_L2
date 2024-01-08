@@ -2,7 +2,7 @@ name: Upload starter_zip
 
 env:
   ZIP_NAME: oplossingP1L2
-  FOLDER_TO_ZIP: ./startcode
+  FOLDER_TO_ZIP: ./oplossingen
   
 on:
   push:
