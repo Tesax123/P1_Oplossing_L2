@@ -10,5 +10,5 @@ def bereken_oppervlakte(lengte, breedte):
 
 lengte = float(input("Wat is de lengte van de rechthoek? "))
 breedte = float(input("Wat is de breedte van de rechthoek? "))
-oppervlakte = bereken_oppervlakte()
+oppervlakte = bereken_oppervlakte(lengte, breedte)
 print("De oppervlakte van de rechthoek is:", oppervlakte)
